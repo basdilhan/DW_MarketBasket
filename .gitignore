@@ -1,0 +1,11 @@
+# Oracle wallet and secrets
+wallet/
+Wallet_*.zip
+
+# Local notebooks and transient files
+etl_oracle_adw_pipeline.ipynb
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
